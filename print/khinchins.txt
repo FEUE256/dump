@@ -2353,6 +2353,6 @@ K = 2.
 
 
 # This is the electronic signature for Plouffe's Inverter        #
-# Ceci est la signature électronique pour l'Inverseur de Plouffe #
+# Ceci est la signature Ã©lectronique pour l'Inverseur de Plouffe #
 # Copyright : Simon Plouffe/Plouffe's Inverter (c) 1986.         #
 # http://www.lacim.uqam.ca/pi                                    #
